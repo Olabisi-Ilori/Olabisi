@@ -1,4 +1,4 @@
-# Hi, I'm Olabisi! 👋
+# Hi, I'm Olabisi! 
 
 Aspiring Data Engineer | Physiology Graduate | SQL Learner
 
